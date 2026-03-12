@@ -73,8 +73,7 @@ g++ -std=c++17 -Wall -Wextra filename.cpp -o output
 ### Clone & Run Any File
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/ahashmi5401/Cpp--Playground-
 g++ -std=c++17 hello_world.cpp -o hello && ./hello
 ```
 
