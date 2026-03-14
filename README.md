@@ -24,7 +24,7 @@
 | 02 | **Functions** | Functions, Recursion, Scope, Overloading | ✅ |
 | 03 | **Arrays & Strings** | Arrays, Multi-dim, C-strings, `std::string` | ✅ |
 | 04 | **Pointers & Memory** | Pointers, References, Dynamic Memory, `new`/`delete` | ✅ |
-| 05 | **OOP** | Classes, Inheritance, Polymorphism, Encapsulation | 🔄 |
+| 05 | **OOP** | Classes, Inheritance, Polymorphism, Encapsulation | ✅  |
 | 06 | **STL** | Vectors, Maps, Sets, Stacks, Queues, Algorithms | 🔜 |
 | 07 | **File I/O** | File Streams, Error Handling | 🔜 |
 | 08 | **DSA** | Sorting, Searching, Linked Lists, Trees *(planned)* | 📌 |
@@ -126,8 +126,8 @@ C++
 - [x] Control Flow
 - [x] Functions
 - [x] Arrays & Strings
-- [ ] Pointers & Memory
-- [ ] OOP
+- [x] Pointers & Memory
+- [x] OOP
 - [ ] STL
 - [ ] File I/O
 - [ ] DSA
